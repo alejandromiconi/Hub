@@ -211,7 +211,7 @@ public class Hub {
 		Log.print();
 		
 		if(Hub.view) {
-			System.out.print(Log.getLog());
+			System.out.println(Log.getLog());
 		}
 	}
 }
