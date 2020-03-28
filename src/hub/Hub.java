@@ -29,6 +29,10 @@ import hub.contents.Page;
 import hub.contents.SaveDb;
 import hub.contents.SaveFile;
 
+/**
+ * @author maico
+ *
+ */
 public class Hub {
 	
 	public static boolean view = false;
