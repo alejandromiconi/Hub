@@ -43,3 +43,11 @@
 2020-03-26T17:00:06.726 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
 2020-03-26T17:00:21.057 E HUB* Hub Steps exceed licensed (1)
 2020-03-26T17:00:27.532 I HUB* End processing
+2020-03-28T07:23:37.740 I HUB* Start processing lot 20200328T072337739
+2020-03-28T07:23:42.427 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-28T07:23:42.427 E HUB* Hub Steps exceed licensed (1)
+2020-03-28T07:23:42.429 I HUB* End processing
+2020-03-28T07:25:07.318 I HUB* Start processing lot 20200328T072507316
+2020-03-28T07:25:10.900 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-28T07:25:10.900 E HUB* Hub Steps exceed licensed (1)
+2020-03-28T07:25:10.903 I HUB* End processing

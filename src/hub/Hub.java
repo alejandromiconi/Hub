@@ -31,7 +31,7 @@ import hub.contents.SaveFile;
 
 /**
  * @author maico
- *
+ * Main!
  */
 public class Hub {
 	
