@@ -1,0 +1,45 @@
+2020-03-26T16:08:36.226 I HUB* Start processing lot 20200326T160835196 ***********************************
+2020-03-26T16:08:47.591 I HUB* License expired!
+2020-03-26T16:08:48.843 I HUB* End processing
+2020-03-26T16:10:24.903 I HUB* Start processing lot 20200326T161021761 ***********************************
+2020-03-26T16:10:30.235 I HUB* License expired!
+2020-03-26T16:10:31.313 I HUB* End processing
+2020-03-26T16:11:11.139 I HUB* Start processing lot 20200326T161111138
+2020-03-26T16:11:13.287 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:11:14.188 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T161111138
+2020-03-26T16:11:14.397 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:11:14.399 I HUB* End processing
+2020-03-26T16:15:42.107 I HUB* Start processing lot 20200326T161542105
+2020-03-26T16:15:43.946 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:15:44.496 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T161542105
+2020-03-26T16:15:44.660 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:15:44.663 I HUB* End processing
+2020-03-26T16:27:55.015 I HUB* Start processing lot 20200326T162755014
+2020-03-26T16:27:56.848 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:27:57.375 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T162755014
+2020-03-26T16:27:57.540 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:27:57.542 I HUB* End processing
+2020-03-26T16:28:08.248 I HUB* Start processing lot 20200326T162808247
+2020-03-26T16:28:10.041 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:28:10.614 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T162808247
+2020-03-26T16:28:10.768 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:28:10.770 I HUB* End processing
+2020-03-26T16:29:02.583 I HUB* Start processing lot 20200326T162902583
+2020-03-26T16:29:04.424 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:29:13.075 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T162902583
+2020-03-26T16:29:13.240 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:29:13.243 I HUB* End processing
+2020-03-26T16:32:28.240 I HUB* Start processing lot 20200326T163228239
+2020-03-26T16:32:30.042 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:32:30.656 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T163228239
+2020-03-26T16:32:30.831 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:32:30.834 I HUB* End processing
+2020-03-26T16:53:36.034 I HUB* Start processing lot 20200326T165336030
+2020-03-26T16:53:44.517 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T16:53:46.809 I CONSOLIDA* Consolida CREATE TABLE consolida_20200326T165336030
+2020-03-26T16:53:47.104 I CONSOLIDA* Consolida File processed with 361 records
+2020-03-26T16:53:47.115 I HUB* End processing
+2020-03-26T16:59:10.321 I HUB* Start processing lot 20200326T165909598
+2020-03-26T17:00:06.726 I API* https://api.estadisticasbcra.com/inflacion_mensual_oficial File processed with 361 records
+2020-03-26T17:00:21.057 E HUB* Hub Steps exceed licensed (1)
+2020-03-26T17:00:27.532 I HUB* End processing
